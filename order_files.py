@@ -1,5 +1,5 @@
 import os
-import shutil
+import shutil ##utilidad de shell que te permite mover archivos, copiarlos, y hacer muchas otras cosas
 
 # Crear las carpetas ADC y SUP si no existen
 if not os.path.exists('ADC'):
